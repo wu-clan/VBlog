@@ -1,0 +1,16 @@
+{
+  "name": "VBlog",
+  "version": "0.0.1",
+  "description": "blog by vuepress",
+  "main": "index.js",
+  "repository": "https://gitee.com/wu_cl/VBlog.git",
+  "author": "xiaowu",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
