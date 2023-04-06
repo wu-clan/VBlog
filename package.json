@@ -7,10 +7,11 @@
   "author": "xiaowu",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.9.9"
+    "vuepress": "^1.9.9",
+    "vuepress-theme-reco": "^1.6.17"
   },
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
   }
 }
